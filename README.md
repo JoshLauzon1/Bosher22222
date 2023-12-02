@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Bosher22222
-- 👀 I’m interested in Machine Learning and the future of the industry.
 - 🌱 I’m currently majoring in Computer Engineering at Michigan State University
 - 💞️ I’m looking to collaborate on any project that is beginner friendly and can help me learn the basics.  
 - 📫 How to reach me lauzonj1@msu.edu
