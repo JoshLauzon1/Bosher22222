@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Josh Lauzon
-- 🌱 I’m currently majoring in Computer Engineering at Michigan State University
-- 💞️ I’m looking to collaborate on any project that is beginner friendly and can help me learn the basics.  
+- 🌱 I’m currently majoring in Computer Engineering at Michigan State University 
 - 📫 How to reach me lauzonj1@msu.edu
 
 <!---
